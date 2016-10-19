@@ -2,6 +2,8 @@
     <string name="app_name">My Application</string>
     <string name="starbuzz_logo">Starbuzz Logo</string>
     <string name="title_activity_drink_category">Drinks</string>
+    <string name="favorite">Favorite</string>
+    <string name="favorites">Your Favorite Drinks</string>
     <string-array name="options">
         <item>Drinks</item>
         <item>Food</item>
